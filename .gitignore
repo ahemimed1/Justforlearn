@@ -1,0 +1,5 @@
+# Ignore all .log files  ( this is a comments)
+*.log
+
+# Ignore all temp files
+*.tmp
