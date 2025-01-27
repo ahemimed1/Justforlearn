@@ -1,5 +1,12 @@
-# Ignore all .log files  ( this is a comments)
+# Ignore all .log files  ( this is a comments)  except the vip.log
 *.log
+!vip.log
+
+# ignore the files named ahmed
+ahmed/
+
 
 # Ignore all temp files
 *.tmp
+
+# for more visit w3school
